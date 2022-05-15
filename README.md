@@ -1,0 +1,2 @@
+# Zaktron
+Zaktron is the world's largest and India’s first edtech platform that rewards the users with their own Zakcoins (ZAK). So that whenever a user uses our platform to learn something new, he/she will be provided with our Zakcoins (ZAK) as rewards, which gives them the easiest and most exciting approach to generate money with the convenience of learning a new skill.   Thus, Zakcoin will lead to the recreation and nurturing of a "New Edtech System” which innovates the "Future Technology” to simplify the hurdles of a layman to develop new skills.
